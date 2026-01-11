@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.qodo
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.DS_Store
+
+# TypeScript
+*.tsbuildinfo
+
+# Tailwind / PostCSS cache
+.cache/
+.tailwindcache/
+
+# Storybook
+.out/
+storybook-static/
+
+# Misc
+*.log
+yarn-error.log
+package-lock.json
+pnpm-lock.yaml
+.DS_Store
