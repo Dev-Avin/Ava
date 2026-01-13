@@ -1,58 +1,94 @@
 export const moodLetters = {
-  happy: [
-    {
-      title: "Keep Shining Bright!",
-      content: `Dear Ava,
+happy: [
+  {
+    title: "Keep Radiating Even Brighter",
+    content: `Dear Avani,
 
-Your happiness is contagious! When you smile, the whole world lights up around you. 
+I absolutely LOVE your smile.
+I’m so glad that you’re happy.
+Hehehe.
 
-Remember this feeling - bottle it up and save it for rainy days. You deserve all the joy that comes your way, and so much more.
+Cutie pie.
+I love you the most, mere baccheee.
 
-Keep spreading those positive vibes. Your energy is a gift to everyone around you!
+Keep smiling, keep radiating, cutu.
+I want to see you happy and blessed 24/7, 365 days a year, for the rest of our days.`
+  },
+  {
+    title: "Celebrate Every Moment",
+    content: `Hey cuttiieeee!
 
-Stay amazing,`
-    },
-    {
-      title: "Celebrate Every Moment",
-      content: `Hey Beautiful!
+I can see you smiling (yes, you are — I can tell).
+That cute smile with those lovely eyes… hehehe, sooo cuteee.
 
-There's something magical about seeing you this happy. It reminds us all that life is full of wonderful surprises.
+Aww, my love, look at you.
+See how adorable my baby is when she’s happy.
 
-Don't forget to dance in this moment. Sing your favorite songs, laugh until your belly hurts, and create memories that will make you smile for years to come.
+Good girl.
+Keep smiling like this.
+Forever.
 
-Your happiness is precious. Cherish it!`
-    },
-    {
-      title: "You Deserve This Joy",
-      content: `Sweet Ava,
+My love.`
+  },
+  {
+    title: "You Deserve All the Joy in the World",
+    content: `Sweet babbyy Ava,
 
-Happiness looks so good on you! This isn't luck - this is what you've earned through your kindness, your hard work, and your beautiful spirit.
+You look sooo cute — OMG.
+Cutie pie, when you giggle, everything around you blossoms with joy and bliss.
 
-Share this joy with others, but also take time to bask in it yourself. You're allowed to be proud of yourself.
+Seeing you laugh is like watching the sunrise from a mountaintop.
+Hearing you giggle is like listening to a beautiful symphony that instantly makes my day.
 
-Keep being the sunshine that you are!`
-    },
-    {
-      title: "Your Happy Place",
-      content: `Dearest Ava,
+Thank you, baby.
+Keep giggling.
+Keep smiling.
 
-When you're happy, it's like watching a flower bloom. Everything about you just radiates positivity and warmth.
+My love.
+My wifey.`
+  },
+  {
+    title: "Your Happy Place",
+    content: `Dearest wife,
 
-Remember what brought you to this happy place. Hold onto it, nurture it, and let it grow even bigger.
+You laugh with a radiance comparable to a blossom of countless flowers.
 
-The world needs your happy energy!`
-    },
-    {
-      title: "Sparkle On",
-      content: `To my favorite human,
+I love this smile.
+I love this laughter.
+I love this cuteness.
+I love these giggles.
+I love those slightly flushed, rosy cheeks.
 
-Your happiness is a superpower! It lifts others up, it changes the energy in a room, and it makes the impossible feel possible.
+I love you.
+I love seeing you happy.
+Hehehe.
 
-Never apologize for being happy. Never dim your light. Just keep sparkling exactly as you are.
+Keep giggling, babbyyy.
+I love you the most.
 
-You're absolutely wonderful!`
-    }
-  ],
+My love.
+My baby.
+My life.`
+  },
+  {
+    title: "Sparkle On",
+    content: `To my favorite human,
+
+Just the thought of you being happy makes my day.
+
+Your laughter, your joy — it’s like the happiness of a five-year-old who just got their favorite toy.
+Sooo cute.
+Sooo pretty.
+And sooo lovely.
+
+Hehehe.
+I love this the most.
+And I love you the most.
+
+Even hearing you laugh lifts me up and cheers me.
+I cherish your happiness dearly, mere bacchaa.`
+  }
+],
 
   lonely: [
     {

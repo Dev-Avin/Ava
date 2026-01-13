@@ -10,28 +10,40 @@ interface AccordionItem {
 
 const ITEMS: AccordionItem[] = [
   {
-    title: "You are loved 💖",
-    subtitle: "More than you’ll ever know",
-    image: "🎀",
-    gradient: "from-pink-400 to-rose-400",
-  },
-  {
-    title: "You are special ✨",
-    subtitle: "One of a kind, always",
+    title: "You are truly special",
+    subtitle: "One of a kind — now and always ✨",
     image: "🌸",
     gradient: "from-purple-400 to-pink-400",
   },
   {
-    title: "You are safe 🫶",
-    subtitle: "I’ve always got you",
+    title: "You are safe here",
+    subtitle: "I’ve always got you, no matter what 🫶",
     image: "🧸",
-    gradient: "from-yellow-400 to-pink-400",
+    gradient: "from-yellow-400 to-amber-400",
   },
   {
-    title: "You are magic 💫",
-    subtitle: "Never forget that",
+    title: "You are pure magic",
+    subtitle: "Never forget how rare you are 💫",
     image: "🦋",
     gradient: "from-blue-400 to-purple-400",
+  },
+  {
+    title: "Loved more than anything",
+    subtitle: "The most in this whole world, mere bacchaa ❤️",
+    image: "💝",
+    gradient: "from-rose-400 to-pink-500",
+  },
+  {
+    title: "Hehehe cutuuuu",
+    subtitle: "Muahhh, muahhh, muahhhh 💋",
+    image: "🐻",
+    gradient: "from-orange-400 to-pink-400",
+  },
+  {
+    title: "Thank you for being born",
+    subtitle: "Your parents created a masterpiece ✨",
+    image: "✨",
+    gradient: "from-emerald-400 to-teal-400",
   },
 ];
 
@@ -48,7 +60,7 @@ export function CuteAccordion() {
   const item = ITEMS[index];
 
   return (
-    <div className="relative w-full max-w-xl mx-auto mt-10">
+    <div className="relative w-xl mx-auto mt-10">
       <AnimatePresence mode="wait">
         <motion.div
           key={index}
