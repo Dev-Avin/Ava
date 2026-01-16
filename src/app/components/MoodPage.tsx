@@ -56,14 +56,6 @@ export function MoodPage({ onMoodSelect }: MoodPageProps) {
       color: '#FF6B9D',
       description: 'Full of love and affection!',
     },
-    {
-  mood: 'spicy',
-  icon: Flame,
-  emoji: '🔥',
-  gradient: 'bg-gradient-to-br from-rose-500 to-red-600',
-  color: '#E63946',
-  description: 'A little flirty, a little bold, feeling that spark.',
-},
 
     {
       mood: 'energetic',
@@ -89,6 +81,15 @@ export function MoodPage({ onMoodSelect }: MoodPageProps) {
       color: '#3ABEFF',
       description: 'Chill vibes, calm and cozy.',
     },
+        {
+  mood: 'spicy',
+  icon: Flame,
+  emoji: '🔥',
+  gradient: 'bg-gradient-to-br from-rose-500 to-red-600',
+  color: '#E63946',
+  description: 'A little flirty, a little bold, feeling that spark.',
+},
+
   ];
 
   return (

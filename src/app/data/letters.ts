@@ -925,49 +925,131 @@ Enjoy every heartbeat of this moment 💓✨`
   }
 ],
 
-
-  excited: [
+excited: [
   {
-    title: "Ride the Excitement",
-    content: `Dear Ava,
+    title: "Ride the Excitement 🎢",
+    content: `Dear CUTIIE PIEEE 🥹💖,
 
-Your excitement is contagious! Every beat of your heart is full of anticipation and joy. Let that feeling take you to new adventures and unforgettable moments.
+Your excitement is contagious! ✨😄  
+Tell me girlieee, what’s happening? 👀  
+What are you thinking about that’s making you *this* excited? 😌🔥  
+Heheheh, cutuu 💕
 
-Savor this thrill. Jump in fully and ride the wave of your happiness!`
+Every beat of your heart is full of anticipation and joy 💓  
+Let that feeling take you to new adventures and unforgettable moments 🌈✨  
+
+You’re doing great, mere bacchee 🫂  
+Keep growing 🌱  
+I wish you get more savoury, enjoyable moments in life 🤍  
+Moments that make you smile like this 😊  
+
+Cuttuu, I love you babby 💖  
+Muaahhh 😘  
+Muaahhh 😘  
+
+Let’s be excited saath saath 🥰  
+Savour this thrill — jump in fully and ride the wave of your happiness 🌊✨`
   },
   {
-    title: "Bursting with Joy",
-    content: `Sweet Ava,
+    title: "Bursting with Joy 🎉",
+    content: `Sweet Ava 💛,
 
-The energy you’re feeling right now is pure joy waiting to be expressed. Dance, laugh, shout, or just soak it all in—whatever makes your heart race.
+Itni excitement OMG 😭✨  
+Mere bacchee, aisaa kya chal raha haii? 👀  
+Batao to zaraa zaraa ☕😌  
+Thodi si tea to do cuttuuu 🤭  
 
-This is your moment to shine brightly. Let the world see your happiness!`
+I know tum abhi thodi zyada excited ho 💥  
+Aur honestly? It’s natural, mere babyy 🤍  
+
+The energy you’re feeling right now is pure joy waiting to be expressed 🌈  
+Once this is done naa,  
+we’ll dance 💃, laugh 😂, shout 😆  
+or just soak it all in together ✨  
+
+Shine brightly babby 🌟  
+Shine the brightest, cutiee 💖  
+
+This is your moment — let the world see your happiness 🌍✨  
+My world, my babby 🫶`
   },
   {
-    title: "Adventure Awaits",
-    content: `Dearest Ava,
+    title: "Adventure Awaits 🧭",
+    content: `Dearest Ava 💖,
 
-Excitement is your compass, guiding you to experiences that make life extraordinary. Every little thing you do today can spark wonder and delight.
+Adventure is calling! 📞✨  
+Heyy babbyy, what’s poppin’ girllee 😄  
 
-Embrace it with open arms and fearless curiosity. Adventure is calling!`
+My adventurous soul 🧡  
+Mere bacchee, kya chal raha haii? 👀  
+Kya kiya hai aisaa, cuttuu? 😌  
+
+I know you — jab tum excited hoti ho,  
+kuch bada plan ho raha hota hai 🔥  
+And I know you’ll handle it beautifully 🤍  
+
+Excitement is your compass 🧭  
+Guiding you to experiences that make life extraordinary ✨  
+Every little thing you do today will spark wonder 🌟  
+
+You got this, mere babby 💪  
+Embrace it with open arms and fearless curiosity 🌈`
   },
   {
-    title: "Sparkle Everywhere",
-    content: `Hey radiant soul,
+    title: "Sparkle Everywhere ✨",
+    content: `Hey radiant soul 🌟,
 
-Your enthusiasm lights up every space you enter! Share that sparkle with everyone around you. Your laughter and joy inspire more joy.
+Heeyy cutiiiee 🥹  
+Your enthusiasm lights up every space you enter 💖  
+Share that sparkle — but protect your heart too 🤍  
 
-Keep radiating this vibrant energy. The world needs your light today!`
+My go-getter 🚀  
+I know tum kuch bada kar rahe ho 🔥  
+Thodi nervous bhi hogi shayad 😌  
+Par koina baccha — sab achha hoga 🫂  
+
+You inspire me, fuel me, motivate me 💕  
+Abhi thoda sa breath lo 😮‍💨  
+Calm down naa, haina bacchaa 🤍  
+
+And now…  
+Give me your best smile 😄  
+Nahi, aur achhi wali 😌  
+Chalo — SMILEEEE 😁✨  
+
+Keep radiating this vibrant energy 🌈  
+The world needs your light today ☀️`
   },
   {
-    title: "Celebrate Every Moment",
-    content: `Dear Ava,
+    title: "Celebrate Every Moment 🎊",
+    content: `Dear Ava 💛,
 
-Life is full of little moments that deserve your excitement and celebration. Notice them, feel them, and let your happiness overflow.
+Life is full of little moments that deserve celebration 🎉  
+And you — you know how to celebrate them beautifully ✨  
 
-Today, let your heart leap for joy and make every second count. You deserve all this exhilaration!`
+That’s why you’re excited.  
+That’s why tum kuch to bada plan kar rahe ho 😌🔥  
+And I believe in you completely 🤍  
+
+Keep smiling 😊  
+Keep growing 🌱  
+Keep radiating ✨  
+Keep winning 🏆  
+
+You are filled with wonders 🌈  
+You are magical, baccha ✨  
+
+Notice your magic 💖  
+Feel it 💓  
+Let it overflow 🌊  
+
+(You’re magical because you enchanted me, babyy 😌🫶)
+
+Today, let your heart leap for joy 💃  
+Make every second count — you deserve all this excitement 🌟`
   }
 ],
+
 
   relaxed: [
     {
@@ -1021,88 +1103,155 @@ Remember: serenity is not lazy—it’s powerful, refreshing, and absolutely nec
 Enjoy this peaceful magic!`
     }
   ],
-  "spicy letters": [
+"spicy letters": [
   {
-    title: "A Little Too Close",
+    title: "A Little Too Close 🔥",
     content: `Hey you,
 
 Come here.
 Just… a little closer.
+A little more.
+Perfect — just the way you are.
 
-I like the way you make eye contact when you’re teasing,
-like you already know what you’re doing to me.
+Heyyy baby,
+how are you doing? 😌  
+You’re fine as salt, and I love it.
+I love your quirks, your features, your talk, your walk —
+and everything that comes in between.
 
-There’s something about you when you’re confident —
-it’s quiet, but it’s dangerous.
+Hey baby,
+I want you closer than ever,
+in a way we never have been before.
+I want to hear that lovely voice
+in a quiet, isolated room,
+filled with your soft murmurs and sighs.
 
-Don’t say anything.
-Just stay.
-That’s enough.`
+Just thinking about you does *a lot* to me.
+So come along, baby —
+a little closer than ever,
+a little deeper than ever. 💫`
   },
+
   {
-    title: "Soft but Not Innocent",
-    content: `Pretty babyy,
+    title: "Soft but Not Innocent 😈",
+    content: `Pretty baby,
 
 You look very innocent sometimes,
 but we both know that’s not the full story.
 
-The way you smile,
-the way you pause before speaking —
-it gives you away.
+You’re cute all over, baby —
+your lips, your eyes, your legs, your thighs,
+and all the things that aren’t said out loud.
+Everything about you pulls me in.
 
-I like that contrast.
-Soft on the outside,
-trouble underneath.
+I want to smudge the shade of your lipstick,
+leave a soft blush on those round cheeks,
+hear you whisper my name,
+breathing a little faster than usual.
 
-And honestly?
-I don’t want you any other way.`
+And I want you to remember
+who you belong to —
+because let’s be real,
+I know you want this too.
+
+So tell me…
+who do you belong to? 🖤
+
+(Not so innocent)
+kitten 😌`
   },
+
   {
-    title: "Late-Night Thoughts",
+    title: "Late-Night Thoughts 🌙",
     content: `It’s late.
 
 And for some reason,
-you’re on my mind a little more than usual.
+you’re on my mind more than usual.
+Way more than usual.
 
-Maybe it’s the way you laugh.
-Maybe it’s the way you say my name.
-Maybe it’s just you.
+The sound of your voice in my ears,
+the way your touch feels on my skin,
+the way your hands move,
+the way you breathe,
+the sounds you make —
+all of it keeps me awake sometimes.
 
-Whatever it is —
-it’s distracting.
+I want to hear it again.
+I know you do too.
 
-I hope you’re thinking of me too.`
+Tell me, baby…
+what do you want?
+How do you want it?
+When do you want it?
+
+Don’t be shy.
+Some things just belong to you —
+the same way you belong to me. 🔥`
   },
+
   {
-    title: "That Look",
+    title: "That Look 👀",
     content: `You know the look.
 
 The one you give when you’re not saying anything,
-but everything is being said.
+but everything is already being said.
 
 Yeah.
 That one.
 
 Please don’t stop doing that.
-It should honestly be illegal.`
+It should honestly be illegal.
+
+I love those eyes —
+the way they reveal your intent
+before your lips ever do.
+The way you close them
+right in the middle of the moment.
+The way you react,
+the way you pull me in closer.
+
+A little more of you.
+A little more of me.
+A little more of us.
+
+That look…
+it does wonders. 🖤`
   },
+
   {
-    title: "Come Back Here",
+    title: "Come Back Here 🔥",
     content: `Hey.
 
 Where do you think you’re going?
 
-You started this.
-That smile, that tone, that energy.
+You started this —
+that smile, that tone, that energy,
+those words, those actions.
 
 Now come back.
 Sit.
 Relax.
 
 I just want you right here,
-exactly like this.`
+exactly like this.
+
+Good girl 😌
+
+Let’s see how long that sass lasts.
+I want to hear that apology
+in a soft, trembling voice.
+
+A lot of emotions will rise in you,
+deep inside —
+unavoidable, intense,
+but still warm and enjoyable.
+
+You’ll enjoy it.
+That’s not a promise, baby…
+
+…it’s a warning. 🔥`
   }
-],
+]
 
 };
 
