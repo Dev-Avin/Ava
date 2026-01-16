@@ -1050,60 +1050,7 @@ Make every second count — you deserve all this excitement 🌟`
   }
 ],
 
-
-  relaxed: [
-    {
-      title: "Enjoy Cuttuu",
-      content: `Dear Baabbbyyy,
-
-There's something magical about this calm energy you have.
- Take a deep breath, relax, and let the world slow down with you.
-
-Savor these peaceful moments—they are the fuel for your heart and soul.
-take a chill pill my cutu cappybara 
-I love this calm side of you 
-
-
-You deserve this serenity.`
-    },
-    {
-      title: "Cozy Moments",
-      content: `Sweet Ava,
-
-Sometimes the best adventures are quiet ones. Curl up with a book, sip your favorite drink, and just enjoy the now.
-
-Let yourself feel this calmness. You are safe, loved, and exactly where you need to be.
-
-Relax, recharge, and shine.`
-    },
-    {
-      title: "Gentle Joy",
-      content: `Dearest Ava,
-
-Happiness doesn’t always need fireworks. Sometimes it’s the soft glow of a cozy morning, the warmth of a smile, or the calm of a quiet evening.
-
-Embrace this gentle joy. It nourishes your heart and soul.`
-    },
-    {
-      title: "Peaceful Heart",
-      content: `Dear Ava,
-
-This feeling of calm and contentment is your gift to yourself. Let go of worries, rest your mind, and simply be.
-
-You are doing wonderfully, even in these quiet moments. They matter just as much as any adventure.`
-    },
-    {
-      title: "Serenity and Smiles",
-      content: `Beautiful Ava,
-
-Your relaxed energy spreads warmth wherever you go. Smile, breathe, and let the calm flow through you.
-
-Remember: serenity is not lazy—it’s powerful, refreshing, and absolutely necessary.
-
-Enjoy this peaceful magic!`
-    }
-  ],
-"spicy letters": [
+spicy: [
   {
     title: "A Little Too Close 🔥",
     content: `Hey you,
