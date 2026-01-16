@@ -73,14 +73,7 @@ export function MoodPage({ onMoodSelect }: MoodPageProps) {
       color: '#FFD700',
       description: 'Can’t wait for what’s coming next!',
     },
-    {
-      mood: 'relaxed',
-      icon: Coffee,
-      emoji: '😌',
-      gradient: 'bg-gradient-to-br from-teal-300 to-blue-400',
-      color: '#3ABEFF',
-      description: 'Chill vibes, calm and cozy.',
-    },
+   
         {
   mood: 'spicy',
   icon: Flame,
