@@ -1,6 +1,6 @@
 import { motion } from 'motion/react';
 import { MoodCard } from './MoodCard';
-import { Smile, Users, Frown, Zap, TrendingDown, HeartHandshake, Battery, Star, Coffee } from 'lucide-react';
+import { Smile, Users, Frown, Zap, TrendingDown, HeartHandshake, Battery, Star, Coffee , Flame } from 'lucide-react';
 
 interface MoodPageProps {
   onMoodSelect: (mood: string, gradient: string) => void;
@@ -56,6 +56,15 @@ export function MoodPage({ onMoodSelect }: MoodPageProps) {
       color: '#FF6B9D',
       description: 'Full of love and affection!',
     },
+    {
+  mood: 'spicy',
+  icon: Flame,
+  emoji: '🔥',
+  gradient: 'bg-gradient-to-br from-rose-500 to-red-600',
+  color: '#E63946',
+  description: 'A little flirty, a little bold, feeling that spark.',
+},
+
     {
       mood: 'energetic',
       icon: Battery,

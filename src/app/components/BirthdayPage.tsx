@@ -6,6 +6,7 @@ import { ConfettiEffect } from "./ConfettiEffect";
 import { FloatingMemories } from "./FloatingMemories";
 import { CuteAccordion } from "./CuteAccordion";
 import { Calendar, Clock, PartyPopper } from "lucide-react";
+import { FireworksEffect } from "./FireworksEffect";
 
 export function BirthdayPage() {
   const birthdayPerson = {
@@ -18,44 +19,54 @@ export function BirthdayPage() {
   const [isBirthday, setIsBirthday] = useState(false);
   const [daysUntil, setDaysUntil] = useState(0);
   const [age, setAge] = useState(0);
-  const [windowHeight, setWindowHeight] = useState(0);
+  const [showFireworks, setShowFireworks] = useState(false);
 
   useEffect(() => {
-    setWindowHeight(window.innerHeight);
     const checkBirthday = () => {
-      const today = new Date();
-      const year = today.getFullYear();
+      const now = new Date();
+      const year = now.getFullYear();
+
       const birthdayThisYear = new Date(
         year,
         birthdayPerson.birthMonth - 1,
         birthdayPerson.birthDay
       );
 
+      // 🎂 Is birthday today
       const isToday =
-        today.getMonth() === birthdayThisYear.getMonth() &&
-        today.getDate() === birthdayThisYear.getDate();
+        now.getMonth() === birthdayThisYear.getMonth() &&
+        now.getDate() === birthdayThisYear.getDate();
       setIsBirthday(isToday);
 
+      // 🎈 Age calculation
       let calculatedAge = year - birthdayPerson.birthYear;
-      if (today < birthdayThisYear) calculatedAge -= 1;
+      if (now < birthdayThisYear) calculatedAge -= 1;
       setAge(calculatedAge);
 
+      // ⏳ Days until birthday
       let nextBirthday = birthdayThisYear;
-      if (today > birthdayThisYear) {
+      if (now > birthdayThisYear) {
         nextBirthday = new Date(
           year + 1,
           birthdayPerson.birthMonth - 1,
           birthdayPerson.birthDay
         );
       }
+
       const diffDays = Math.ceil(
-        (nextBirthday.getTime() - today.getTime()) / (1000 * 60 * 60 * 24)
+        (nextBirthday.getTime() - now.getTime()) / (1000 * 60 * 60 * 24)
       );
       setDaysUntil(diffDays);
+
+      // 🎆 Fireworks window
+      const fireworksStart = new Date(year, 0, 16, 23, 59); // Jan 16, 11:59 PM
+      const fireworksEnd = new Date(year, 0, 17, 0, 5);     // Jan 17, 12:05 AM
+
+      setShowFireworks(now >= fireworksStart && now <= fireworksEnd);
     };
 
     checkBirthday();
-    const interval = setInterval(checkBirthday, 1000 * 60 * 60); // hourly
+    const interval = setInterval(checkBirthday, 60 * 1000); // check every minute
     return () => clearInterval(interval);
   }, []);
 
@@ -80,13 +91,16 @@ export function BirthdayPage() {
   return (
     <div className="relative min-h-screen overflow-hidden bg-gradient-to-br from-pink-100 via-purple-100 to-blue-100 pt-16">
       
-      {/* Background Memories */}
-      {isBirthday ? <FloatingMemories /> : <FloatingMemories />}
-      
-      {/* Effects */}
+      {/* Background */}
+      <FloatingMemories />
+
+      {/* 🎉 Birthday Effects */}
       {isBirthday && (
         <>
           <ConfettiEffect />
+
+          {showFireworks && <FireworksEffect />}
+
           {balloonColors.slice(0, 5).map((color, i) => (
             <Balloon
               key={i}
@@ -98,12 +112,13 @@ export function BirthdayPage() {
         </>
       )}
 
+      {/* 🎈 Pre-birthday balloons */}
       {!isBirthday &&
         balloonColors.slice(0, 3).map((color, i) => (
           <Balloon key={i} color={color} delay={i * 2} x={25 + i * 20} />
         ))}
 
-      {/* Main content */}
+      {/* Main Content */}
       <div className="relative z-10 flex min-h-screen flex-col items-center justify-center p-8">
         {isBirthday ? (
           <>
@@ -121,7 +136,6 @@ export function BirthdayPage() {
 
             <BirthdayCard name={birthdayPerson.name} />
 
-            {/* Accordion with delay for rhythm */}
             <motion.div
               initial={{ opacity: 0, y: 20 }}
               animate={{ opacity: 1, y: 0 }}
@@ -178,8 +192,7 @@ export function BirthdayPage() {
               </div>
 
               <p className="text-lg text-gray-600">
-                Turning <span className="font-semibold">{age + 1}</span> this
-                year 🎂
+                Turning <span className="font-semibold">{age + 1}</span> this year 🎂
               </p>
 
               <motion.p
@@ -189,21 +202,11 @@ export function BirthdayPage() {
               >
                 ✨ The celebration starts automatically on the big day ✨
               </motion.p>
-
-              {/* Emotional line */}
-              <motion.p
-                className="mt-4 text-sm text-gray-500"
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                transition={{ delay: 0.8 }}
-              >
-                Counting down to another beautiful memory 💫
-              </motion.p>
             </div>
           </motion.div>
         )}
 
-        {/* Footer date */}
+        {/* Footer Date */}
         <motion.div
           className="mt-8 rounded-full bg-white/60 px-6 py-3 text-sm text-gray-600 backdrop-blur"
           initial={{ opacity: 0 }}

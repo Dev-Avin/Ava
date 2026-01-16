@@ -28,7 +28,23 @@ const IMAGES = [
   "/S14.png",
   "/S15.png",
   "/S16.png",
+  "/S17.png",
+  "/S18.png",
+  "/S19.png",
+  "/S20.png",
+  "/S21.png",
+  "/S22.png",
+  "/S23.png",
+  "/S24.png",
+  "/S25.png",
+  "/S26.png",
+  "/S27.png",
+  "/S28.png",
+  "/S29.png",
+  "/S30.png",
+  "/S31.png",
 ];
+
 
 export function FloatingMemories() {
   const [memories, setMemories] = useState<Memory[]>([]);

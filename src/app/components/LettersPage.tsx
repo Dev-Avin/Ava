@@ -65,7 +65,7 @@ export function LettersPage({ mood, moodGradient, onBack }: LettersPageProps) {
             animate={{ scale: [1, 1.05, 1], y: [0, -5, 0] }}
             transition={{ duration: 1.5, repeat: Infinity }}
           >
-            {mood} Letters
+            Love Filled Letters
           </motion.h1>
           <p className="text-gray-600 text-lg">
             5 heartfelt messages just for you 💌

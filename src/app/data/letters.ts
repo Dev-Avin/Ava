@@ -360,6 +360,7 @@ You're doing better than you think.
 Love you the most 🫶`
   }
 ],
+
 frustrated: [
   {
     title: "Take a Deep Breath",
@@ -497,6 +498,7 @@ I support you in everything you do 🤍
 I love you, Ava 💖`
   }
 ],
+
 demotivated: [
   {
     title: "Rest is Productive",
@@ -651,58 +653,144 @@ You got this 💪`
   }
 ],
 
-  "lovey dovey": [
-    {
-      title: "Love Looks Good on You",
-      content: `Dear Ava,
+"lovey dovey": [
+  {
+    title: "Love Looks Good on You",
+    content: `BAABBBYYYYY 💖,
 
-Your heart is so full of love right now, and it's absolutely beautiful to witness! This feeling is what makes life magical.
+Your heart is so full of love right now,
+CUTTUUU 🥹  
+I LOVE YOU THE MOSTTT, MERE BACHHEE 💕  
+I LOVE YOUR VOICE,  
+I LOVE YOUR SMILE, YOUR EXPRESSIONS, YOUR FACE, YOUR LIPS, YOUR BODY — EVERYTHINGGG 😘  
 
-Cherish this moment. Express your love freely. Send that text, give that hug, say those words. Love is meant to be shared.
+Absolutely beautiful.  
+Everything about you is ABSOLUTELY BEAUTIFUL AND THE BESTTT ✨  
+Loving you is magical 💫  
 
-You're radiating pure joy!`
-    },
-    {
-      title: "Keep Your Heart Open",
-      content: `Sweet romantic soul,
+You are sooo cute when you are feeling lovey-dovey 🥰  
+Muahh muahh 💋  
+Muaahh 💋  
 
-The way you love is so pure and genuine. Never let the world make you feel like being loving is a weakness - it's actually your superpower.
+I love you the most, bachaa 💞  
 
-Whether it's romantic love, friendship love, or self-love, keep that heart of yours open and generous. The world needs more people like you.
+Cherish this moment.  
+Express your love freely.  
+Send that text, say those words 💌  
 
-Love fearlessly!`
-    },
-    {
-      title: "You Deserve This Love",
-      content: `Dearest Ava,
+Love is meant to be shared.  
 
-All the love you're feeling? You deserve every bit of it and more. You've earned this happiness through your kindness and your open heart.
+You're radiating pure joy! 🌸  
+Cuttiiee pieeee 😍`
+  },
+  {
+    title: "Keep Your Heart Open",
+    content: `Pretty little babbyy 🫶,
 
-Enjoy every sweet moment. Create beautiful memories. And remember - you are worthy of being loved just as much as you love others.
+The way you love is so pure and genuine.  
+I love you a lot for this 🥹  
+Tum jo bhi ho, on face ho,  
+aur mere saamne bahut hi pyaari bachhi ho 💕  
 
-Embrace the magic!`
-    },
-    {
-      title: "Romance in the Air",
-      content: `To my favorite romantic,
+I love you a lot, mere bachhuu 💖  
+Mere cuttuu,  
+my babyy,  
+mera cutie pie 😘  
+hehehehe  
 
-There's something so special about the way you see love in everything. Your optimism and warmth make the world a better place.
+I love you the mosttt 💞  
+You are smiling naa?  
+I know you are 😊  
+I love this smile of yours, my babyyy 💗  
 
-Dance in this feeling. Write love letters, make playlists, daydream about beautiful moments. This is your time to be wonderfully, unapologetically lovey-dovey.
+My world… this world needs more people like you 🌍💖  
 
-Spread that love everywhere!`
-    },
-    {
-      title: "Love is Your Language",
-      content: `Beautiful Ava,
+Keep loving, cuttiiee! ✨`
+  },
+  {
+    title: "You Deserve This Love",
+    content: `Hey Priye 💕
 
-Your heart speaks the language of love fluently, and it's one of the most beautiful things about you. Never apologize for being affectionate and expressive.
+All the love you're feeling?  
+You deserve every bit of it — and more 💗  
+You've earned this happiness through your kindness and your open heart.  
 
-Let your love overflow. Hug a little tighter, smile a little brighter, express a little louder. The people in your life are lucky to receive your love.
+You are the kindest person I know 🫶  
+You are the prettiest, my babyy 😍  
+I love you the most 💞  
 
-Keep loving boldly!`
-    }
-  ],
+Tum badi pyaari ho 🥹  
+Cutuu hooo 💕  
+Sweetheart ho 💖  
+Sabse bestest ho 🌸  
+
+Enjoy every sweet moment.  
+Create beautiful memories ✨  
+
+And remember — you are worthy of being loved just as much as you love others 💝  
+You deserve all the love in this world, my babbyyeee 💗  
+
+Keep smiling, babyy 😊  
+
+Embrace the magic! ✨`
+  },
+  {
+    title: "Romance in the Air",
+    content: `To my favorite person 💖,
+
+There's something so special about the way you love 🥰  
+Pyaar toh maine tumse kiya hai,  
+par tumhare hone se sab cheezein aur bhi better lagti hain 💫  
+
+Your love fills me with optimism and warmth  
+and makes the world a better place 🌍💗  
+
+Dance in this feeling 💃  
+Write love letters 💌  
+Make playlists 🎶  
+Daydream about beautiful moments 🌸  
+
+Love and be loved, mere bachhe 💞  
+Fly high, cutuu 🕊️  
+Have great moments, mere bachhe ✨  
+
+This is your time to be wonderfully, unapologetically YOU, mere cuttuu 💖  
+
+Spread this love… but just for me 😌  
+hehehe  
+I am selfishh, cutuu 😘`
+  },
+  {
+    title: "Love is Your Language",
+    content: `Beautiful baabyy 💗,
+
+I love you the most, mere bachhe 💞  
+I know abhi tum bhi lovey-dovey ho,  
+and I love this version of you the most 🥰  
+
+You are hot, sexy, a diva 😏✨  
+But THIS…  
+this lovely 7-year-old with a cute grin 🥹  
+I love this the mosttt 💕  
+
+I wanna pick you up and cuddle you  
+with lots of loveee 🤗💖  
+And I wanna see you smile the brightest  
+every day, every second 🌸  
+
+My babyy 💞  
+My cutie pie 🧸  
+My bachhaa 💗  
+My babbyyy 💖  
+
+I love you the mosttt 😘  
+Keep giggling 😄  
+Keep smiling 😊  
+Keep growing 🌱  
+And keep shining ✨`
+  }
+],
+
 
   energetic: [
     {
@@ -789,14 +877,61 @@ Shine on, superstar!`
     }
   ],
 
+  excited: [
+  {
+    title: "Ride the Excitement",
+    content: `Dear Ava,
+
+Your excitement is contagious! Every beat of your heart is full of anticipation and joy. Let that feeling take you to new adventures and unforgettable moments.
+
+Savor this thrill. Jump in fully and ride the wave of your happiness!`
+  },
+  {
+    title: "Bursting with Joy",
+    content: `Sweet Ava,
+
+The energy you’re feeling right now is pure joy waiting to be expressed. Dance, laugh, shout, or just soak it all in—whatever makes your heart race.
+
+This is your moment to shine brightly. Let the world see your happiness!`
+  },
+  {
+    title: "Adventure Awaits",
+    content: `Dearest Ava,
+
+Excitement is your compass, guiding you to experiences that make life extraordinary. Every little thing you do today can spark wonder and delight.
+
+Embrace it with open arms and fearless curiosity. Adventure is calling!`
+  },
+  {
+    title: "Sparkle Everywhere",
+    content: `Hey radiant soul,
+
+Your enthusiasm lights up every space you enter! Share that sparkle with everyone around you. Your laughter and joy inspire more joy.
+
+Keep radiating this vibrant energy. The world needs your light today!`
+  },
+  {
+    title: "Celebrate Every Moment",
+    content: `Dear Ava,
+
+Life is full of little moments that deserve your excitement and celebration. Notice them, feel them, and let your happiness overflow.
+
+Today, let your heart leap for joy and make every second count. You deserve all this exhilaration!`
+  }
+],
+
   relaxed: [
     {
-      title: "Breathe and Enjoy",
-      content: `Dear Ava,
+      title: "Enjoy Cuttuu",
+      content: `Dear Baabbbyyy,
 
-There's something magical about this calm energy you have. Take a deep breath, relax, and let the world slow down with you.
+There's something magical about this calm energy you have.
+ Take a deep breath, relax, and let the world slow down with you.
 
 Savor these peaceful moments—they are the fuel for your heart and soul.
+take a chill pill my cutu cappybara 
+I love this calm side of you 
+
 
 You deserve this serenity.`
     },
@@ -836,7 +971,90 @@ Remember: serenity is not lazy—it’s powerful, refreshing, and absolutely nec
 
 Enjoy this peaceful magic!`
     }
-  ]
+  ],
+  "spicy letters": [
+  {
+    title: "A Little Too Close",
+    content: `Hey you,
+
+Come here.
+Just… a little closer.
+
+I like the way you make eye contact when you’re teasing,
+like you already know what you’re doing to me.
+
+There’s something about you when you’re confident —
+it’s quiet, but it’s dangerous.
+
+Don’t say anything.
+Just stay.
+That’s enough.`
+  },
+  {
+    title: "Soft but Not Innocent",
+    content: `Pretty babyy,
+
+You look very innocent sometimes,
+but we both know that’s not the full story.
+
+The way you smile,
+the way you pause before speaking —
+it gives you away.
+
+I like that contrast.
+Soft on the outside,
+trouble underneath.
+
+And honestly?
+I don’t want you any other way.`
+  },
+  {
+    title: "Late-Night Thoughts",
+    content: `It’s late.
+
+And for some reason,
+you’re on my mind a little more than usual.
+
+Maybe it’s the way you laugh.
+Maybe it’s the way you say my name.
+Maybe it’s just you.
+
+Whatever it is —
+it’s distracting.
+
+I hope you’re thinking of me too.`
+  },
+  {
+    title: "That Look",
+    content: `You know the look.
+
+The one you give when you’re not saying anything,
+but everything is being said.
+
+Yeah.
+That one.
+
+Please don’t stop doing that.
+It should honestly be illegal.`
+  },
+  {
+    title: "Come Back Here",
+    content: `Hey.
+
+Where do you think you’re going?
+
+You started this.
+That smile, that tone, that energy.
+
+Now come back.
+Sit.
+Relax.
+
+I just want you right here,
+exactly like this.`
+  }
+],
+
 };
 
 export type MoodType = keyof typeof moodLetters;
