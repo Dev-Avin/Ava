@@ -792,90 +792,139 @@ And keep shining ✨`
 ],
 
 
-  energetic: [
-    {
-      title: "Harness That Power",
-      content: `Dear Ava,
+energetic: [
+  {
+    title: "Harness That Power ⚡",
+    content: `Dear Ava 💛,
 
-Your energy is absolutely electric right now! You can feel it buzzing through your veins, making everything seem possible.
+Your energy is absolutely electric right now! ⚡✨  
+You can do any and everything my babbyy 💪🔥  
+My cutuuu 💖  
+You got this, for real.
 
-Use this momentum. Start that project, have that conversation, try that new thing. When energy strikes, ride that wave as far as it takes you.
+Take a look at your vision board 👀✨  
+And get things done, haan? 😌  
+One step at a time.
 
-You're absolutely unstoppable!`
-    },
-    {
-      title: "Channel Your Fire",
-      content: `Energetic superstar,
+I know abhi you feel infinite energy 🌊  
+You can feel it buzzing through your veins,  
+making everything seem possible 🚀  
+And honestly? It *is* possible.
 
-This burst of energy is a gift - use it wisely! Move your body, create something, connect with people, chase your dreams.
+Use this momentum wisely 🧠  
+Keep going, do what’s necessary abhi.  
+Don’t overthink, don’t start everything ek saath 🤍  
 
-But also remember to pace yourself. Even the brightest flames need fuel to keep burning. Stay hydrated, eat well, and sleep when you can.
+Focus 🎯  
+ADAPT 🔁  
+IMPROVE 📈  
+AND GROWW 🌱  
 
-Shine bright!`
-    },
-    {
-      title: "Contagious Enthusiasm",
-      content: `Hey powerhouse,
+You’re absolutely unstoppable, my sunshine 🌞🔥`
+  },
+  {
+    title: "Channel Your Fire 🔥",
+    content: `Energetic superstar ✨,
 
-Your energy is absolutely contagious! When you walk into a room with this kind of enthusiasm, you lift everyone around you.
+This burst of energy is a gift — use it wisely 🎁⚡  
+Chase your dreams mere bachcee 🌈  
+You got this, I know you do 💖  
 
-Share that energy. Inspire others. Show them what's possible when you're fully alive and engaged with life. You're a force of nature.
+You are smart 🧠  
+And with this energy,  
+everything is possible my babbyy 🚀  
+I believe in you completely 🤍
 
-Keep spreading that positive energy!`
-    },
-    {
-      title: "Make Things Happen",
-      content: `Dear go-getter,
+BUTTT 😌  
+Also remember to pace yourself.  
+Don’t overshoot, don’t overplan.  
+Calm and steady wins the race, babyy 🐢✨  
 
-Today is YOUR day. With this much energy, there's nothing you can't accomplish. Make your to-do list and crush it!
+Even the brightest flames need fuel to keep burning 🔥  
+So pause when needed.
 
-But don't forget to have fun too. Energy isn't just for productivity - it's also for dancing, laughing, adventuring, and living fully.
+Stay hydrated 💧  
+Eat well 🍎  
+And sleep when you can 😴  
 
-Seize the day!`
-    },
-    {
-      title: "Electric Soul",
-      content: `Amazing Ava,
+Shine bright, always ✨🌟`
+  },
+  {
+    title: "Contagious Enthusiasm ✨",
+    content: `Hey powerhouse 💥,
 
-You're absolutely buzzing with life force right now, and it's incredible! This is what being fully alive feels like.
+Your energy is absolutely contagious! ⚡😄  
+You radiate hope and motivation everywhere you go, mere bacchee 💖  
+You *have* that energetic vibe — it’s natural to you.
 
-Don't let anyone dim your sparkle or tell you to "calm down." Your energy is perfect exactly as it is. Express it, celebrate it, embody it fully.
+When you walk into a room with this kind of enthusiasm,  
+you lift everyone around you 🌟  
 
-You're electric and magnificent!
+Protect your energy though 🛡️  
+Not everyone deserves access to it.  
+But yes — you *do* inspire others by just being you.
 
-Enjoy every heartbeat of this moment!`
-    },
-    {
-      title: "Let the Fun Begin",
-      content: `Dear one,
+Show them what’s possible when you’re fully alive and present 🌍🔥  
 
-Excitement is your invitation to play, explore, and savor life. Don’t hold back—laugh loudly, dance wildly, and let your joy overflow.
+You’re a force of nature 🌪️  
+And an absolutely stunning, magnificent one 😌💛  
+You can achieve anything, babbyy.
 
-This energy is precious. Share it, treasure it, and let it carry you to new heights.
+Keep glowing, keep going ✨🚀`
+  },
+  {
+    title: "Make Things Happen 🚀",
+    content: `Dear go-getter 🌟,
 
-The world is ready for your sparkle!`
-    },
-    {
-      title: "Overflowing Joy",
-      content: `Amazing Ava,
+Today is YOUR day 💥  
+With this much energy,  
+there’s nothing you can’t accomplish 💪✨  
 
-This rush of excitement is proof that you're connected to what truly matters to you. Let it wash over you like sunlight on a spring morning.
+Crush your to-do list 📋🔥  
+Do everything you want to — I know you’ll win 🏆  
+Mera lovely bacchaa, my winner 🥹💖  
 
-Celebrate it, cherish it, and share it. Your happiness inspires everyone around you.
+But don’t forget to have fun too 😄  
+Energy isn’t just for productivity —  
+it’s for dancing 💃, laughing 😂, adventuring 🌍  
+and living fully 🌈  
 
-Keep riding this wonderful wave!`
-    },
-    {
-      title: "Shine with Excitement",
-      content: `Dearest Ava,
+How about you send your man (ME 😌)  
+a little dance video on your fav song? 🎶💃  
+Hehehe 🤭  
 
-Your energy right now is electric, vibrant, and beautiful. Embrace it fully—let it fuel your dreams, your creativity, and your happiness.
+LOVE YOU BACHEE 💖  
+Now go shine, sunshine ☀️✨`
+  },
+  {
+    title: "Electric Soul ⚡💛",
+    content: `Amazing Ava ✨,
 
-You were born to radiate joy. Let everyone bask in your light.
+You’re absolutely buzzing — radiating and pulsing with life force right now ⚡💖  
+And it’s beautiful to witness.  
+This is what being fully alive feels like 🌱  
 
-Shine on, superstar!`
-    }
-  ],
+Don’t let anyone dim your sparkle ✨  
+Or tell you to “calm down.”  
+Your energy is perfect exactly as it is 🤍  
+
+Express it 💬  
+Celebrate it 🎉  
+Embody it fully 🌟  
+
+You are great.  
+You are the best.  
+You are mine 😌💖  
+My babbyy, my cutiee, my everything.
+
+Now come on —  
+let’s crush our goals together 🚀🔥  
+Let’s do this, haan? 🤍  
+
+Enjoy every heartbeat of this moment 💓✨`
+  }
+],
+
 
   excited: [
   {
