@@ -4,303 +4,652 @@ happy: [
     title: "Keep Radiating Even Brighter",
     content: `Dear Avani,
 
-I absolutely LOVE your smile.
+I absolutely LOVE your smile 😄✨
 I’m so glad that you’re happy.
-Hehehe.
+Hehehe 😋
 
-Cutie pie.
-I love you the most, mere baccheee.
+Cutie pie 💖
+I love you the most, mere baccheee 🫶
 
-Keep smiling, keep radiating, cutu.
-I want to see you happy and blessed 24/7, 365 days a year, for the rest of our days.`
+Keep smiling, keep radiating, cutu 🌸
+I want to see you happy and blessed 24/7, 365 days a year, for the rest of our days 💫`
   },
   {
     title: "Celebrate Every Moment",
-    content: `Hey cuttiieeee!
+    content: `Hey cuttiieeee! 😍
 
-I can see you smiling (yes, you are — I can tell).
-That cute smile with those lovely eyes… hehehe, sooo cuteee.
+I can see you smiling (yes, you are — I can tell 😉).
+That cute smile with those lovely eyes… hehehe, sooo cuteee 🥹💕
 
 Aww, my love, look at you.
-See how adorable my baby is when she’s happy.
+See how adorable my baby is when she’s happy 🧿💖
 
-Good girl.
+Good girl 💕
 Keep smiling like this.
-Forever.
+Forever ♾️
 
-My love.`
+My love ❤️`
   },
   {
     title: "You Deserve All the Joy in the World",
-    content: `Sweet babbyy Ava,
+    content: `Sweet babbyy Ava 💗,
 
-You look sooo cute — OMG.
-Cutie pie, when you giggle, everything around you blossoms with joy and bliss.
+You look sooo cute — OMG 😍
+Cutie pie, when you giggle, everything around you blossoms with joy and bliss 🌼✨
 
-Seeing you laugh is like watching the sunrise from a mountaintop.
-Hearing you giggle is like listening to a beautiful symphony that instantly makes my day.
+Seeing you laugh is like watching the sunrise from a mountaintop 🌄
+Hearing you giggle is like listening to a beautiful symphony 🎶 that instantly makes my day.
 
-Thank you, baby.
+Thank you, baby 💕
 Keep giggling.
-Keep smiling.
+Keep smiling 😊
 
 My love.
-My wifey.`
+My wifey 💍`
   },
   {
     title: "Your Happy Place",
-    content: `Dearest wife,
+    content: `Dearest wife 💖,
 
-You laugh with a radiance comparable to a blossom of countless flowers.
+You laugh with a radiance comparable to a blossom of countless flowers 🌸🌸
 
 I love this smile.
 I love this laughter.
 I love this cuteness.
 I love these giggles.
-I love those slightly flushed, rosy cheeks.
+I love those slightly flushed, rosy cheeks 🥰
 
 I love you.
 I love seeing you happy.
-Hehehe.
+Hehehe 😋
 
-Keep giggling, babbyyy.
+Keep giggling, babbyyy 💞
 I love you the most.
 
 My love.
 My baby.
-My life.`
+My life ❤️`
   },
   {
     title: "Sparkle On",
-    content: `To my favorite human,
+    content: `To my favorite human 🫶,
 
-Just the thought of you being happy makes my day.
+Just the thought of you being happy makes my day ✨
 
-Your laughter, your joy — it’s like the happiness of a five-year-old who just got their favorite toy.
+Your laughter, your joy — it’s like the happiness of a five-year-old who just got their favorite toy 🎁
 Sooo cute.
 Sooo pretty.
-And sooo lovely.
+And sooo lovely 💕
 
-Hehehe.
+Hehehe 😄
 I love this the most.
-And I love you the most.
+And I love you the most 💖
 
 Even hearing you laugh lifts me up and cheers me.
-I cherish your happiness dearly, mere bacchaa.`
+I cherish your happiness dearly, mere bacchaa 🧿`
   }
 ],
 
-  lonely: [
-    {
-      title: "You're Not Alone",
-      content: `Dear Ava,
+lonely: [
+  {
+    title: "You're Not Alone",
+    content: `Dear Love 💗,
+I know when you are reading this you are going through some stuff, maybe a lot of stuff.
+Feeling lost and maybe alone.
+I just want you to remember that you are awesome 🌟
+I believe in you.
+You are strong, brave, courageous, and bold,
+and I love that about you 💪❤️
+I love you mere bachhe 🫶
+I love you the most, my love.
+Maybe love might not be that useful sometimes,
+but I still love you the mosttt 💖`
+  },
+  {
+    title: "This Too Will Pass",
+    content: `Lovely Ava 💕
 
-I know it feels lonely right now, but please remember - you are so loved, even when it doesn't feel that way.
+Feeling lonely doesn't mean you are alone.
+Sometimes we just need that extra support,
+you know, a partner to lean on, someone who can just hear 🤍
 
-Loneliness is just a feeling, not a forever state. It will pass. And while you wait for it to pass, know that there are people who care about you deeply.
+I love you mere bachhe 🫶
+Maybe I am not with you physically when you are reading this,
+but emotionally, mentally, and spiritually,
+I am there.
+Every time you need me,
+I am there 🤍
+I am always there for you my wife,
+my love 💍
 
-Reach out when you're ready. Someone is always there.`
-    },
-    {
-      title: "This Too Shall Pass",
-      content: `Sweet friend,
+Be gentle with yourself during this time 🌸
 
-Feeling lonely doesn't mean you are alone. Sometimes our hearts just need a little extra love and that's completely okay.
+Do something nice for yourself babyy.
+Do whatever comforts you.
+(you can do husband too if you feel good 😌)
 
-Be gentle with yourself during this time. Do something nice for yourself - watch your favorite movie, listen to music that comforts you, or simply rest.
+Brighter days are coming ☀️`
+  },
+  {
+    title: "You Are Valued",
+    content: `Priye 💖,
 
-Brighter days are coming.`
-    },
-    {
-      title: "You Are Valued",
-      content: `Ava,
+Your presence in this world matters the most for me.
+Even when you feel disconnected,
+you are connected to so many hearts ❤️
+I am the first on that list 🫶
 
-Your presence in this world matters more than you know. Even when you feel disconnected, you are connected to so many hearts.
+Sometimes we need to be alone to recharge, and that's okay too.
+But know that whenever you're ready,
+my arms are waiting to welcome you and hug you back 🤗
+my hands are waiting for yours ✋
+my chest is waiting for you to put your head on it 💓
+my ears are waiting to hear all about your longggg day 👂💬
 
-Sometimes we need solitude to recharge, and that's beautiful too. But know that whenever you're ready, there are arms waiting to welcome you back.
+You are treasured.
+You are valued.
+You are loved 💖`
+  },
+  {
+    title: "Connection is Coming",
+    content: `Dear Bachheee 🧿,
 
-You are treasured.`
-    },
-    {
-      title: "Connection is Coming",
-      content: `Dear one,
+Loneliness can feel heavy,
+par it's just a phase.
+We will be there for each other for a lifetime,
+as we promised 🤞
+We will grow a lot in this time period,
+and we will do great stuff 🚀
+And then when we meet,
+we will be better versions of ourselves 💫
+Hainaa bachhaa? 🥹
 
-Loneliness can feel heavy, but it's also teaching you something important about what you need and value in relationships.
+So we will use this time to reconnect with yourself.
+Sometimes we need to be our own best friend first.
+Hainaa bachhaa? 🤍
 
-Use this time to reconnect with yourself. Sometimes we need to be our own best friend first. And then, when you're ready, the right connections will find you.
+So let's go for it.
+Let's do it 💪
+And when we get back,
+we will celebrate it 🎉
 
-Hold on.`
-    },
-    {
-      title: "You Matter So Much",
-      content: `Beautiful Ava,
+I love you.
+I love you to my core.
+I love you the most 💖
 
-When loneliness creeps in, it can make us forget our worth. But your worth isn't determined by how many people are around you right now.
+Just hold on
+for some time mere bachhe.
+Good things are coming soon 🌈`
+  },
+  {
+    title: "You Matter THE MOST",
+    content: `My love Ava 💗,
+My babyy, I value you the most.
+I love you the most.
+I know you do the same 🫶
 
-You are valuable, you are loved, and you are never truly alone. Sometimes the universe just needs us to slow down and look inward.
+It's just distance and isolation
+that are ruining your mood at the moment,
+but it's okay.
+That is how things are sometimes 🌙
 
-Better days are ahead.`
-    }
-  ],
+No matter what, I am there 🤍
+I believe in you.
+I have faith in you ✨
 
-  sad: [
-    {
-      title: "It's Okay to Cry",
-      content: `Dear Ava,
+I love you and
+I promise to be there for you forever
+and never will I ever let you down 🤞
 
-Your tears are valid. Your sadness is real. And you don't have to put on a brave face or pretend everything is fine.
+I love you the most bachha 💖
+I know you have people near you,
+probably closer than ever.
+Unse hug karo 🤗
+thoda better feel hoga.
 
-Let yourself feel what you're feeling. Sadness isn't weakness - it's proof that you have a deep capacity to care and feel.
+Love you the most mere bachhe 🧿
 
-Take all the time you need to heal.`
-    },
-    {
-      title: "Gentle Healing",
-      content: `Sweet Ava,
+Better days are ahead ☀️`
+  }
+],
 
-Today might feel heavy, and that's okay. You don't have to carry it all at once. Take it moment by moment, breath by breath.
+sad: [
+  {
+    title: "It's Okay to Cry",
+    content: `Dear Ava 🤍,
 
-Be as kind to yourself as you would be to your best friend. Rest when you need to. Cry when you need to. And know that this feeling won't last forever.
+Your tears are valid.
+Every emotion is valid.
+Your sadness is real.
+And you don't have to put on a brave face or pretend everything is fine,
+at least not in front of me, babyy 🫶
 
-You're stronger than you know.`
-    },
-    {
-      title: "Wrapped in Comfort",
-      content: `Dearest Ava,
+Kya hua haan?
+Kyaa baat hai?
+Kaun log hain jo tumhe tang kar rahe,
+wo sab gande hain 😤
+Tum ache bachhe ho naa 🧿
 
-Imagine this letter as a warm hug wrapping around you. You're not alone in your sadness, even when it feels like you are.
+I love you mera bacchaa 💖
+Ab bhi ro raha hai?
+Ab nahi rona 😢
+Nose clean karo chalo.
+Utho utho, hainaa?
+Aww mere ache bacchaa 🥹
+I love you babbyy 🤍
 
-It's okay to not be okay. Give yourself permission to just exist today without any pressure or expectations.
+Dhyaan rakho tum apna.
+Take your time, jitna bhi lage.
+Get up,
+get well and get going phir 💪
+I love you the most mere bache 💖
+Sadness isn't weakness.
 
-Tomorrow is a new day.`
-    },
-    {
-      title: "Light After Dark",
-      content: `Dear friend,
+Take all the time you need to heal 🌸`
+  },
+  {
+    title: "Gentle Healing",
+    content: `Sweet Child 🤍,
 
-Even the darkest nights end with sunrise. Your sadness is temporary, even though it feels permanent right now.
+Today might feel heavy, and it's okay.
+You don't have to carry it all at once.
+Take it moment by moment,
+breath by breath 🌬️
 
-What you're going through is real and it matters. But so do you. And you will get through this, one small step at a time.
+Be as kind to yourself as you would be to your best friend (ME 😌).
+Rest when you need to.
+Cry when you need to
+(well you do cry frequently 😜),
+par koi na,
+it helps you get stuff out of your mind naa.
+Hehehe 😄
 
-Keep going.`
-    },
-    {
-      title: "You Will Smile Again",
-      content: `Precious Ava,
+Toh chhodo,
+koi baat nahi.
+Ro lo thoduu saaa,
+par zyada bhi nahi,
+cuz tears are salty 😝
 
-I know you can't see it right now, but there will come a day when this sadness is just a memory. You will laugh again, smile again, feel light again.
+And remember that this feeling won't last forever 🌈
 
-Until then, be patient with yourself. Healing isn't linear. Some days will be harder than others, and that's part of the process.
+You're stronger than you know.
+I believe in you my love 💖
+Get well soon 🤍`
+  },
+  {
+    title: "Wrapped in Comfort",
+    content: `Dearest Ava 🤍,
 
-You're doing better than you think.`
-    }
-  ],
+Imagine this letter as a warm hug wrapping around you 🤗
+Well, there is like a 90% chance then I am getting slapped 😂
+par koi na 😌
 
-  frustrated: [
-    {
-      title: "Take a Deep Breath",
-      content: `Dear Ava,
+You're not alone in your sadness,
+even when it feels like you are.
 
-I can feel your frustration from here. Everything feels like it's going wrong, and you just want to scream. That's completely understandable.
+It's okay to not be okay.
+Give yourself permission to just exist today,
+without any pressure or expectations 🌙
 
-Before you do anything else, take three deep breaths. Sometimes our best solutions come when we step back for just a moment.
+Be you babby,
+even if it feels like you are using my hanky to wipe your nose
+cuz you don't have yours 😂
+Sorryyy 😝
 
-You've got this.`
-    },
-    {
-      title: "Your Feelings Are Valid",
-      content: `Hey there,
+I wanna cheer you thoduu thoduu saa karke 🥹
+I love you the most mere bacchee 💖
 
-Frustration is your brain's way of saying "this isn't working!" And that's actually good information to have.
+Tomorrow is a new day ☀️
+Let's groww.
+It's a fresh day every day 🌸
+Love you the mosttt 😘
+MUAAHHH 💋`
+  },
+  {
+    title: "Light After Dark",
+    content: `Dearest girlfriend and my dearest best friend 💖,
 
-You're not being dramatic. You're not overreacting. You're having a normal human response to a difficult situation. Now, what can we change?
+Even the darkest nights end with sunrise 🌅
+Aur tum toh ho hi sunshine meri ☀️
 
-Let's figure this out together.`
-    },
-    {
-      title: "Power Through",
-      content: `Ava,
+Your sadness is temporary.
+Hainaa, koi na yaar babbyy.
+Kaand hote rehte hain 😌
+Bakchodi nahi rukni chahiye 😂
 
-I know everything feels impossible right now. But remember all those other times you felt this way? And remember how you made it through every single one of them?
+What you're going through is real and it matters.
+But so do you,
+and for me you matter the mostt 🫶
 
-You're more capable than you give yourself credit for. This frustration is temporary. Your resilience is permanent.
+And you will get through this,
+easily 💪
+Cuz I have faith in you ✨
 
-Keep pushing forward.`
-    },
-    {
-      title: "It's Okay to Step Away",
-      content: `Dear one,
+Keep going 🤍
+I love you the mosttt 💖`
+  },
+  {
+    title: "You will keepp Smiling",
+    content: `Precious Babbyyy 💗,
 
-Sometimes the best thing you can do when frustrated is to simply walk away for a bit. Not giving up - just giving yourself space to breathe.
+I know you are going through stuff,
+but there will come a day when this sadness is just a memory 🌸
 
-Come back to it with fresh eyes later. Or ask for help. Or try a completely different approach. You have options, even when it doesn't feel like it.
+Babbyy, pain and sadness are temporary
+and just a part of life.
+Koi baat nahi 🤍
+It's okayy,
+that's how things are sometimes.
 
-Take a break if you need it.`
-    },
-    {
-      title: "Channel That Energy",
-      content: `Strong Ava,
+Don't worryy,
+life gets better eventually,
+and it's not a big biiig thing in the longer run 🌈
 
-That frustration you're feeling? That's just passion and energy that needs a better direction. You care so much, and that's beautiful.
+Until then, be patient with yourself.
+Healing isn't linear,
+and you can't force growth 🌱
 
-Take that fire and use it as fuel. Dance it out, write it out, talk it out. Transform that frustration into motivation.
+Let stuff be.
+Relax, grow, and enjoyy ✨
+I love you the most 💖
+In your life,
+I am always a constant 🤞
+Hehehe 😌
 
-You're unstoppable when you channel your power.`
-    }
-  ],
+You're doing better than you think.
+Love you the most 🫶`
+  }
+],
+frustrated: [
+  {
+    title: "Take a Deep Breath",
+    content: `Dear Ava 🤍,
 
-  demotivated: [
-    {
-      title: "Rest is Productive",
-      content: `Dear Ava,
+I can feel your frustration from here.
+Everything feels like it's going wrong, and you just want to scream 😤
+That's completely understandable.
 
-Feeling demotivated doesn't mean you're lazy or failing. It means you need rest, recovery, or a different approach.
+Before you do anything else,
+take three deep breaths 🌬️🌬️🌬️
+Sometimes our best solutions come when we step back for just a moment.
 
-Sometimes the most productive thing you can do is nothing at all. Your worth isn't measured by your productivity.
+Hainaa, I know you want some isolation to reset and get going.
+So don’t worry and just take your time.
+After all,
+raat ko batana bhi toh hai kya kya hua din mein 😉
+Hainaa?
 
-Be gentle with yourself today.`
-    },
-    {
-      title: "Small Steps Count",
-      content: `Sweet Ava,
+I love you myy babbyy 💖
+Take care, Ava 🫶
 
-You don't have to climb the whole mountain today. You don't even have to take big steps. Just one tiny step is enough.
+You've got this 💪`
+  },
+  {
+    title: "Your Feelings Are Valid",
+    content: `Hey there sassy kiddio 😏,
 
-Brush your teeth. Drink some water. Open the curtains. These small things matter more than you know when motivation is low.
+Frustration is your brain's way of saying,
+"WHY AM I SURROUNDED BY IDIOTS!" 🤯
+And well… that’s actually useful information 😂
+But haan, what can we do 😌
 
-You're doing great.`
-    },
-    {
-      title: "Rediscover Your Why",
-      content: `Dearest Ava,
+You're not being dramatic.
+You're not overreacting.
+You're having a normal human response to a strange situation.
 
-When motivation fades, it's time to reconnect with your purpose. Why did you start this journey? What dreams are you chasing?
+Don’t worry, babyy 🤍
+You and your primary idiot supporter (ME 😌)
+have got this 💪
 
-Sometimes we just need to remember our "why" to reignite the spark. And if that "why" no longer serves you, it's okay to find a new one.
+If you want your boyfriend, I am here 💕
+If you need your girlfriend,
+thennn……
+………
+………
+IT'S ME TOO 😌
+(Don't expect any other person 😤)
 
-Your path is yours to choose.`
-    },
-    {
-      title: "You're Still Amazing",
-      content: `Beautiful soul,
+We got this, my love 🫶
+We will figure this out together 🤍`
+  },
+  {
+    title: "Power Through",
+    content: `Ava 💪,
 
-Lack of motivation doesn't erase all the amazing things you've already accomplished. You're still the same incredible person, just going through a low-energy phase.
+I know it feels hard right now,
+but remember all those other times you felt this way?
+And remember how you made it through every single one of them? 🫶
 
-This is temporary. Your spark will return. Until then, be patient and compassionate with yourself.
+Tum toh yaar,
+tum toh sabse best ho mere bacche 🧿
+Better than everyone.
+Tum toh sab kuch kar sakte ho.
+Tum best best ho 😤💖
+I love you mere bacche 🤍
 
-You haven't lost your magic.`
-    },
-    {
-      title: "Permission to Pause",
-      content: `Dear Ava,
+You're capable of doing ANYTHING 🔥
 
-Here's your official permission slip to slow down. To rest. To not have it all figured out right now.
+This frustration is temporary.
+Your resilience is permanent ✨
 
-Sometimes we need these demotivated moments to reassess and recalibrate. Use this time wisely - not to beat yourself up, but to nurture yourself.
+Keep pushing forward.
+I have faith in you, babyy 💪
+I love you the most 💖`
+  },
+  {
+    title: "It's Okay to Step Away",
+    content: `Dear one 🤍,
 
-The fire will return when you're ready.`
-    }
-  ],
+Sometimes the best thing you can do when frustrated
+is to simply walk away for a bit 🚶‍♀️
+Not giving up — just giving yourself space to breathe 🌬️
+
+Take your time.
+Assess the situation.
+Or just don’t think about it at all 😌
+Go out on a solo walk.
+Drink your fav beverage (Pulpy Orange 🍊).
+Get some KitKat or Crispello 🍫
+(but not more than 2 in a day 😤).
+
+Come back to it with fresh eyes later.
+Or ask for help.
+Or try a completely different approach.
+You have options, even when it doesn't feel like it 🤍
+
+Or you can ring your boyfriend 😌📞
+Hehehe.
+
+Love you the most, baccha 🫶
+Kissii do door se 😘
+Cuz paas hui toh peet dogi 😂
+
+Take a break if you need it.
+Take care, baby 🤍
+Love you 💖`
+  },
+  {
+    title: "Channel That Energy",
+    content: `Strong Ava 🔥,
+
+That frustration you're feeling?
+That's just passion and energy that need a better direction ⚡
+You care so much, and that's beautiful 🫶
+
+You are strong,
+and sometimes you get reckless,
+going into the pursuit of “abhi hi chahiye” 😤
+Don’t fall into that trap.
+Keep going.
+Some things take time ⏳
+
+Take that fire and use it as fuel 🔥
+Dance it out 💃
+Write it out ✍️
+Talk it out 🗣️
+
+Transform that frustration into motivation 💪
+
+You're unstoppable when you channel your power ✨
+Now go bananas 🍌
+on this stupid stuff you're dealing with 😤
+I support you in everything you do 🤍
+I love you, Ava 💖`
+  }
+],
+demotivated: [
+  {
+    title: "Rest is Productive",
+    content: `Dear Ava 🤍,
+
+Feeling demotivated doesn't mean you're lazy or failing.
+It means you need rest,
+recovery,
+or maybe just a different approach 🌱
+
+Sometimes the most productive thing you can do is nothing at all.
+So yeahh, lean back, rest, and enjoyyy babyy 😌
+
+Your worth isn't measured by your productivity.
+You are priceless 💖
+Take your time and your energy,
+and use it to nurture yourself today 🌸
+
+Be gentle with yourself today.
+I love you, Ava 🫶
+Take care 💫`
+  },
+  {
+    title: "Small Steps Count",
+    content: `Sweet Ava 🤍,
+
+You don't have to climb the whole mountain today 🏔️
+You don't even have to take big steps.
+Just one tiny step is enough.
+
+Keep moving, keep pushing.
+You will get there eventually 💪
+You will win, mere babchee 🧿
+You are meant to win ✨
+
+Brush your teeth 🪥
+Drink some water 💧
+Open the curtains ☀️
+Get up from bed.
+BREATHE 🌬️
+PIPPOO 🐶
+HUGG PIPPOOO 🤗
+NOW TAKE A DEEP BREATH
+and SAY LOUDLY 😤
+I GOT THIS 💥
+
+These small things matter more than you know when motivation is low.
+
+You're doing great.
+You are awesome and inspiring ✨
+I love you, BABY 💖
+I love you the mosttt 🫶`
+  },
+  {
+    title: "Rediscover Your Why",
+    content: `Dearest Ava 💖,
+
+When motivation feels low,
+it's time to reconnect with your purpose 🌱
+Why did you start this journey?
+What dreams are you chasing?
+
+You are a dreamer by nature ✨
+Normal things cannot contain you.
+You need extra.
+You need more.
+You need better.
+Hainaa? 😌
+
+And YOU CAN.
+And you WILL.
+You have said this yourself.
+Remember, my love 🤍
+
+You are smart, strong, bold, courageous, and powerful 💪
+And I love that about you 🫶
+
+Sometimes we just need to remember our "why" to reignite the spark 🔥
+And even if that "why" no longer serves you,
+it's okay to find a new one 🌸
+
+Your path is yours to choose,
+and I am always your co-traveler 🤝
+I love you the most,
+my strong, brave child 🧿
+You got this 💖`
+  },
+  {
+    title: "You're Always Amazing",
+    content: `Beautiful soul 🤍,
+
+Lack of motivation doesn't erase
+all the amazing things you've already accomplished ✨
+You're still the same incredible person,
+just going through a low-energy phase 🌙
+
+You just need a recharge 🔋
+Like a boost…
+hmm, like a boost from me 😌
+
+Okiee, stupid flirts aside 😂
+
+This down feeling is temporary.
+Your spark will return,
+because you spark joy and life in me, babyy 💖
+
+Tum strong ho 💪
+Tum bahut kuch achieve kar sakti ho ✨
+You can do anything you set your mind to 🧿
+
+Until then,
+be patient and compassionate with yourself 🌸
+
+You haven't lost your magic.
+You ARE the magic ✨
+I love you, baby 💖
+I know you will win 🫶`
+  },
+  {
+    title: "Permission to Pause",
+    content: `Dear Ava 🤍,
+
+Here's your official permission slip to slow down 📄
+To rest.
+To not have it all figured out right now 🌱
+
+Don't worry, it's reusable 😌
+You don't need to be active 24/7.
+It's okay to take breaks.
+It's okay to rest 🤍
+
+No, you aren't being lazy.
+And you aren't running away.
+Sometimes you confuse progress with movement —
+don't do that 🫶
+
+Abhi just relaxxx 😌
+Take your time.
+Sometimes we need these demotivated moments
+to reassess and recalibrate ✨
+
+Use this time wisely —
+not to beat yourself up,
+but to nurture yourself 🌸
+
+The fire will return when you're ready 🔥
+And waise bhi, you are already flaming (HOT 😤😂)
+Heheheheh 😌
+
+I love you the most, Ava 💖
+You got this 💪`
+  }
+],
 
   "lovey dovey": [
     {

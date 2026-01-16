@@ -10,7 +10,11 @@ export default function App() {
   const [selectedMood, setSelectedMood] = useState<MoodType | null>(null);
   const [selectedMoodGradient, setSelectedMoodGradient] = useState<string>('');
 
+  // 🔒 Date lock for MoodPage
+  const isMoodPageUnlocked = new Date() >= new Date('2026-01-16');
+
   const handleMoodSelect = (mood: string, gradient: string) => {
+    if (!isMoodPageUnlocked) return;
     setSelectedMood(mood as MoodType);
     setSelectedMoodGradient(gradient);
     setCurrentPage('letters');
@@ -22,6 +26,10 @@ export default function App() {
   };
 
   const handleNavigate = (page: 'birthday' | 'moods') => {
+    if (page === 'moods' && !isMoodPageUnlocked) {
+      setCurrentPage('birthday');
+      return;
+    }
     setCurrentPage(page);
     if (page === 'birthday') {
       setSelectedMood(null);
@@ -30,13 +38,20 @@ export default function App() {
 
   return (
     <>
-      <Navigation currentPage={currentPage === 'letters' ? 'moods' : currentPage} onNavigate={handleNavigate} />
-      
+      <Navigation
+        currentPage={currentPage === 'letters' ? 'moods' : currentPage}
+        onNavigate={handleNavigate}
+      />
+
       {currentPage === 'birthday' && <BirthdayPage />}
-      {currentPage === 'moods' && <MoodPage onMoodSelect={handleMoodSelect} />}
+
+      {currentPage === 'moods' && isMoodPageUnlocked && (
+        <MoodPage onMoodSelect={handleMoodSelect} />
+      )}
+
       {currentPage === 'letters' && selectedMood && (
-        <LettersPage 
-          mood={selectedMood} 
+        <LettersPage
+          mood={selectedMood}
           moodGradient={selectedMoodGradient}
           onBack={handleBackToMoods}
         />
