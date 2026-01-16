@@ -11,7 +11,7 @@ export function BirthdayPage() {
   const birthdayPerson = {
     name: "Ava",
     birthMonth: 1, // January
-    birthDay: 12,
+    birthDay: 17,
     birthYear: 2004,
   };
 
