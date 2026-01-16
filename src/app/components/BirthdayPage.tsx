@@ -59,7 +59,7 @@ export function BirthdayPage() {
       setDaysUntil(diffDays);
 
       // 🎆 Fireworks window
-      const fireworksStart = new Date(year, 0, 16, 23, 59); // Jan 16, 11:59 PM
+      const fireworksStart = new Date(year, 0, 16, 23, 56); // Jan 16, 11:59 PM
       const fireworksEnd = new Date(year, 0, 17, 0, 30);     // Jan 17, 12:05 AM
 
       setShowFireworks(now >= fireworksStart && now <= fireworksEnd);
